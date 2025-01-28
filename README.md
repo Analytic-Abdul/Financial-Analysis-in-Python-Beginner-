@@ -4,7 +4,6 @@
 
 This project showcases my analytics skills, understanding of financial statements and my ability to manipulate python and it's libraries to extract insights from data. The data of Fortune 500 companies used in this project was provided in a data Datacamp Real World Project.
 
-
 In this project I'll "Help our hedge fund manager!" compare data about Fortune 500 companies by collecting, preparing, cleaning, analysing and visualizing this data about financial statements.
 
 ## Prerequisites
@@ -37,12 +36,10 @@ Both datasets are in xlsx format so we need to pip install the openpyxl module "
 
 These questions will guide our analysis to help the hedge fund manager make data-driven investment decisions.
 
-# What is Financial Analysis?
+## What is Financial Analysis?
 
 Financial analysis is the process of examining a company's financial statements and other financial data to assess its financial health, performance, and prospects. It involves analyzing key financial ratios, trends, and metrics to understand the company's financial position, profitability, liquidity, and solvency. Financial analysis is used by investors, creditors, analysts, and other stakeholders to make informed investment, lending, and business decisions.
 
 ## What are financial statements?
 
 Financial statements are formal records of a company's financial activities and position. They provide a comprehensive overview of a company's financial performance, position, and cash flows over a specific period. Financial statements are essential for stakeholders, including investors, creditors, and management, to make informed decisions about the company's financial health and prospects.
-
-
